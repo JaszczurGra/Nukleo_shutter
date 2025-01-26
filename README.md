@@ -1,5 +1,7 @@
 **Odpalanie**
-./Nukleo_shutter/venv/Scripts/python.exe ./Nukleo_shutter/main.py 
+```bash
+./Nukleo_shutter/venv/Scripts/python.exe ./Nukleo_shutter/main.py
+```
 
 
 
