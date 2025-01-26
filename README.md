@@ -1,6 +1,6 @@
 **Odpalanie**
 ```bash
-./Nukleo_shutter/venv/Scripts/python.exe ./Nukleo_shutter/main.py
+venv\Scripts\python.exe main.py
 ```
 
 
